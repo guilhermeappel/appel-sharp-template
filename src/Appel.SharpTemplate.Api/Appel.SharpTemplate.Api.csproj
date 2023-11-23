@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Riok.Mapperly" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Appel.SharpTemplate.Infrastructure\Appel.SharpTemplate.Infrastructure.csproj" />
+    <ProjectReference Include="..\Appel.SharpTemplate.Application\Appel.SharpTemplate.Application.csproj" />
+  </ItemGroup>
+
+</Project>
