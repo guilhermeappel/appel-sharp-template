@@ -31,12 +31,12 @@ Appel.SharpTemplate is a .NET Core 8 template project designed for building clea
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/guilhermeappel/Appel.SharpTemplate.git
+   git clone https://github.com/guilhermeappel/appel-sharp-template.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   git clone https://github.com/guilhermeappel/Appel.SharpTemplate.git
+   cd appel-sharp-template
    ```
    
 3. **Restore dependencies::**
